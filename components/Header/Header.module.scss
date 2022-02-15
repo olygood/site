@@ -1,0 +1,50 @@
+$font-title-header : 'Montserrat', sans-serif;
+$font-title: 'Quicksand', sans-serif;
+$font-paragraphe: 'Tajawal', sans-serif;
+
+
+.header{
+    
+   
+    /* border: 3px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: #05668D;
+    color: azure;
+    font-family: $font-title-header;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 30px;
+    overflow: hidden;
+}
+.header h1{
+    font-family: $font-title-header;
+    font-weight: 900;
+    font-size: 50px;
+    color: #FF9B42;
+}
+.header p{
+  color:#DBF9B8;
+}
+.containerImgL{
+  width: 70px;
+  height: 100px;
+ 
+}
+.titleCenter{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.containerImgR{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 160px;
+  height: 100px;
+ 
+}

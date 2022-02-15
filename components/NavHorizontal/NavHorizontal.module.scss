@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;600&display=swap');
+
+.navhorizontal{
+    background: rgb(255, 255, 255);
+    width: auto;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Raleway';
+    font-weight: 600;
+}
+
+
