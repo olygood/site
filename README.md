@@ -1,2 +1,0 @@
-# site
-nextjs web site
