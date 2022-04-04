@@ -18,6 +18,9 @@ export default function NavLeft() {
         <Link href="/game">
           <a>Game</a>
         </Link>
+        <Link href="/blog">
+          <a>Blog</a>
+        </Link>
         <Link href="/contact">
           <a>Contact</a>
         </Link>
